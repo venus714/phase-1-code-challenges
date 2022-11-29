@@ -18,6 +18,26 @@
     https://www.aren.co.ke/payroll/taxrates.html  
 
     https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
+    
+    ## Installation
+    To use this repo on your machine you need to follow these few steps
+    ###Steps
+    Open a terminal / command line interface on your computer
+   -Clone the repo by using the following:
+
+      git clone 
+
+- Be patient as it creates a copy on your local machine for you.
+- Change directory to the repo folder:
+
+        cd 
+
+- Open it in ``Visual Studio Code`` USING THE CODE:
+
+        code .
+#Running the application
+To run this application use the following;
+  node <file name>  in your code editor's terminal and press enter
 
 
 ## Acknowledgements
