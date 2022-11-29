@@ -22,7 +22,7 @@
     # Installation
     To use this repo on your machine you need to follow these few steps
     
-    ##Steps
+    ## Steps
     
     Open a terminal / command line interface on your computer
    -Clone the repo by using the following:
@@ -38,10 +38,10 @@
 
         code .
 
-     ##Running the application
+     ## Running the application
 
      To run this application use the following;
-     node <file name>  in your code editor's terminal and press enter
+     node //<file name>  in your code editor's terminal and press enter
 
 
       ## Acknowledgements
