@@ -41,8 +41,9 @@
      ## Running the application
 
      To run this application use the following;
-     node (file name) in your code editor's terminal and press enter
-
+     node (file name) in your code editor's terminal 
+     
+     -Press enter
 
       ## Acknowledgements
 
