@@ -40,11 +40,13 @@
 
      ## Running the application
 
-     To run this application use the following;
+     To use this application use the following;
       
      -Node (file name) in your code editor's terminal 
      
      -Press enter
+     -You wil be prompted to enter data in different fields
+     -Enter the data as you click on enter till you receive your output
 
       ## Acknowledgements
 
