@@ -71,7 +71,7 @@ function NSSFDeduction(){
 console.log(NSSFDeduction())
 //The function to calculate the net salary
 function NetSalary(){
-    console.log(`NetSalary:`,grossPay + (Benefits) - (pensionablePay) - (grossPay * 0.06)-(NHIFDeduction))
+    console.log(`NetSalary:`,grossPay + (Benefits) - (pensionablePay) - (grossPay * 0.06))
 }
 
 console.log(NetSalary());
