@@ -39,10 +39,12 @@
         code .
 
      ## Running the application
-
-     To use this application use the following;
+     First and foremost, you will need to install this package in order to be able to be prompted to enter        your data so as to get output    
+     Install it by entering npm install prompt -sync
       
-     -Node (file name) in your code editor's terminal 
+     Run the program by following the following steps;
+     
+     -Input node (file name) in your code editor's terminal 
      
      -Press enter
      
